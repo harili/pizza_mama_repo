@@ -1,0 +1,14 @@
+C:\Users\ilies\OneDrive\Bureau\Projets\PizzaMama.Web\PizzaMama.Core\bin\Debug\net6.0\PizzaMama.Core.deps.json
+C:\Users\ilies\OneDrive\Bureau\Projets\PizzaMama.Web\PizzaMama.Core\bin\Debug\net6.0\PizzaMama.Core.dll
+C:\Users\ilies\OneDrive\Bureau\Projets\PizzaMama.Web\PizzaMama.Core\bin\Debug\net6.0\PizzaMama.Core.pdb
+C:\Users\ilies\OneDrive\Bureau\Projets\PizzaMama.Web\PizzaMama.Core\obj\Debug\net6.0\PizzaMama.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilies\OneDrive\Bureau\Projets\PizzaMama.Web\PizzaMama.Core\obj\Debug\net6.0\PizzaMama.Core.AssemblyInfoInputs.cache
+C:\Users\ilies\OneDrive\Bureau\Projets\PizzaMama.Web\PizzaMama.Core\obj\Debug\net6.0\PizzaMama.Core.AssemblyInfo.cs
+C:\Users\ilies\OneDrive\Bureau\Projets\PizzaMama.Web\PizzaMama.Core\obj\Debug\net6.0\PizzaMama.Core.csproj.CoreCompileInputs.cache
+C:\Users\ilies\OneDrive\Bureau\Projets\PizzaMama.Web\PizzaMama.Core\obj\Debug\net6.0\PizzaMama.Core.dll
+C:\Users\ilies\OneDrive\Bureau\Projets\PizzaMama.Web\PizzaMama.Core\obj\Debug\net6.0\refint\PizzaMama.Core.dll
+C:\Users\ilies\OneDrive\Bureau\Projets\PizzaMama.Web\PizzaMama.Core\obj\Debug\net6.0\PizzaMama.Core.pdb
+C:\Users\ilies\OneDrive\Bureau\Projets\PizzaMama.Web\PizzaMama.Core\obj\Debug\net6.0\ref\PizzaMama.Core.dll
+C:\Users\ilies\OneDrive\Bureau\Projets\PizzaMama.Web\PizzaMama.Core\bin\Debug\net6.0\PizzaMama.Core.runtimeconfig.json
+C:\Users\ilies\OneDrive\Bureau\Projets\PizzaMama.Web\PizzaMama.Core\obj\Debug\net6.0\PizzaMama.Core.csproj.AssemblyReference.cache
+C:\Users\ilies\OneDrive\Bureau\Projets\PizzaMama.Web\PizzaMama.Core\obj\Debug\net6.0\PizzaMama.Core.genruntimeconfig.cache
